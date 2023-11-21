@@ -1,0 +1,14 @@
+C:\Flowers\Eighth Flower\Lab8_1\bin\Debug\net6.0\Lab8_1.exe
+C:\Flowers\Eighth Flower\Lab8_1\bin\Debug\net6.0\Lab8_1.deps.json
+C:\Flowers\Eighth Flower\Lab8_1\bin\Debug\net6.0\Lab8_1.runtimeconfig.json
+C:\Flowers\Eighth Flower\Lab8_1\bin\Debug\net6.0\Lab8_1.dll
+C:\Flowers\Eighth Flower\Lab8_1\bin\Debug\net6.0\Lab8_1.pdb
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfoInputs.cache
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.AssemblyInfo.cs
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.csproj.CoreCompileInputs.cache
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.dll
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\refint\Lab8_1.dll
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.pdb
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\Lab8_1.genruntimeconfig.cache
+C:\Flowers\Eighth Flower\Lab8_1\obj\Debug\net6.0\ref\Lab8_1.dll
